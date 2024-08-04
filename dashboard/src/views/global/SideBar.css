@@ -1,0 +1,19 @@
+.custom-sidebar .sidebar-inner {
+  background: var(--colors-primary-400) !important;
+}
+
+.custom-sidebar .icon-wrapper {
+  background-color: transparent;
+}
+
+.custom-sidebar .inner-item {
+  padding: 5px 35px 5px 20px !important;
+}
+
+.custom-sidebar .inner-item:hover {
+  color: #868dfb !important;
+}
+
+.custom-sidebar .menu-item.active {
+  color: #6870fa !important;
+}
